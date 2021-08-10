@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: rgb(214, 214, 214);
+    margin-top: 50px;
+}
+
+.title {
+    color: black;
+    text-align: center;
+}
+
+input {
+    margin-right: 10px;
+    margin-left: 120px;
+}
+
+;
